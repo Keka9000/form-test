@@ -172,22 +172,3 @@ export default {
 
 }
 </script>
-
-<style>
-
-  .banner {
-
-    min-height: 200px;
-    box-sizing: border-box;
-    border: solid 1px #ebebeb;
-
-  }
-
-  .menu__footer {
-
-    min-height: 100px;
-    box-sizing: border-box;
-
-  }
-
-</style>
