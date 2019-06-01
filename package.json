@@ -1,7 +1,7 @@
 {
   "name": "form-test",
   "version": "1.0.0",
-  "description": "A test vue.js project for FTC",
+  "description": "A test vue.js project for FFC",
   "author": "Keka9000",
   "private": true,
   "scripts": {

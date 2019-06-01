@@ -1,6 +1,6 @@
 # form-test
 
-test form for FTC
+test form for FFC
 
 ``` bash
 # install dependencies
